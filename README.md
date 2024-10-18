@@ -1,6 +1,8 @@
 ## Proyecto Final de OOP con interfaz gráfica desarrollada con JavaSwing
 
-Desarrollado originalmente en colaboración con [Patty-03](https://github.com/Patty-03) utilizando Eclipse IDE y jdk 1.8. Esta nueva versión tiene el objetivo de hacer mis propios cambios sin afectar el resultado final del proyecto original presentado en el curso, y hacer mejoras por mi cuenta.
+Desarrollado originalmente en colaboración con [Patty-03](https://github.com/Patty-03) utilizando Eclipse IDE y jdk 1.8. Esta nueva versión tiene el objetivo de hacer mis propios cambios sin afectar el resultado final del proyecto original presentado en el curso, y hacer mejoras por mi cuenta. 
+
+#### **[Proyecto original](https://github.com/Patty-03/Object-Oriented-Programming-Proyect-in-Java)**
 
 
 ### - Enunciado del proyecto:
